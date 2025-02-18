@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage Example</title>
+</head>
+<body>
+
+    <h1>Welcome to My Webpage</h1>
+    <p>Check out the sections below or visit <a href="https://www.google.com" target="_blank">Google</a> for more info (External Link).</p>
+    <a href="#section1">Go to Section 1 (Internal Link)</a>
+    <p>This is some filler content to make the page longer. Scroll down to see the anchor link in action.</p>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kMFaoGjW9BA" frameborder="0" allowfullscreen></iframe>
+
+    <div style="height: 800px; background-color: #f0f0f0;"></div>
+
+    <h2 id="section1">Section 1</h2>
+    <p>This is the first section of the webpage.</p>
+
+    <div style="height: 800px; background-color: #f0f0f0;"></div>
+
+    <h2 id="section2">Section 2</h2>
+    <p>This is the second section of the webpage. You can navigate back to the 
+        <a href="#section1">top of the page</a> using an anchor link.</p>
+
+</body>
+</html>
