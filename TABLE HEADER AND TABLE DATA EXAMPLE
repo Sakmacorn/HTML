@@ -5,11 +5,12 @@
     <title>Document</title>
 </head>
 <body>
-    <table border="1">
+    <table border="2">
         <tr>
             <th>Name</th>
             <th>Age</th>
             <th>City</th>
+            <th>Number</th>
         </tr>
         <tr>
             <td>John</td>
